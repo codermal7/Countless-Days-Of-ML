@@ -6,7 +6,11 @@ Welcome to my Machine Learning repository, where I will be exploring various ML 
 
 ## Authors
 
-- [@codermal7](https://www.github.com/codermal7)
+Github- [@codermal7](https://www.github.com/codermal7)
+
+Linkedin- [@Anuj Kumar Pandey](https://www.linkedin.com/in/anuj-kumar-pandey-6151a81b5/)
+
+GFG- [@codermal7](https://auth.geeksforgeeks.org/user/codermal7/)
 
 
 ## Roadmap
