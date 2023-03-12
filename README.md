@@ -6,7 +6,7 @@ Welcome to my Machine Learning repository, where I will be exploring various ML 
 
 ## 📫 How to reach me
 
-Mail- [pandeyanuj1804@gmail.com](pandeyanuj1804@gmail.com)
+Mail- pandeyanuj1804@gmail.com
 
 Github- [@codermal7](https://www.github.com/codermal7)
 
