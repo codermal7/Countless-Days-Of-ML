@@ -15,6 +15,7 @@ import pandas as pd
 tips = sns.load_dataset('tips')
 
 tips.head()
+# added comment
 
 # setting a theme for the plots
 sns.set_theme()
